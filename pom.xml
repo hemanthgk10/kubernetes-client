@@ -86,7 +86,7 @@
     <automaton.bundle.version>1.11-8_1</automaton.bundle.version>
     <jackson.version>2.7.7</jackson.version>
     <jackson.bundle.version>${jackson.version}</jackson.bundle.version>
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13</junit.version>
     <kubernetes.model.version>2.0.8</kubernetes.model.version>
     <log4j.version>2.10.0</log4j.version>
     <zjsonpatch.version>0.3.0</zjsonpatch.version>
