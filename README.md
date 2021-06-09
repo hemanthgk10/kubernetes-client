@@ -1,4 +1,6 @@
 # Kubernetes & OpenShift 3 Java Client [![Join the chat at https://gitter.im/fabric8io/kubernetes-client](https://badges.gitter.im/fabric8io/kubernetes-client.svg)](https://gitter.im/fabric8io/kubernetes-client?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+[![CIS](https://app.demo.soluble.cloud/api/v1/public/badges/aa90a753-f546-4a3b-9d9f-2090b7c2cb97.svg)](https://app.demo.soluble.cloud/repos/details/github.com/hemanthgk10/kubernetes-client)  [![IaC](https://app.demo.soluble.cloud/api/v1/public/badges/983df030-af90-4464-acb2-c6d5292574a7.svg)](https://app.demo.soluble.cloud/repos/details/github.com/hemanthgk10/kubernetes-client)  
 This client provides access to the full [Kubernetes](http://kubernetes.io/) &
 [OpenShift 3](http://openshift.org/) REST APIs via a fluent DSL.
 
